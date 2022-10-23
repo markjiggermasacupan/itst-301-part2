@@ -1,0 +1,15 @@
+@import url("./custom.css");
+
+body,
+html {
+  overflow-x: hidden;
+}
+
+body * {
+  font-family: "Kanit", sans-serif !important;
+}
+
+.svg {
+  display: flex;
+  justify-content: center;
+}
